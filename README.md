@@ -94,7 +94,6 @@ I don't just design screens — I think about *why* each pixel is where it is. A
 
 <div align="center">
 
-### 💬 Final Word
 
 ```
 "The details are not the details.
