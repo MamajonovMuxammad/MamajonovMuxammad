@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="assets/banner.png" alt="AllMaster.uz Banner" width="100%" />
+<img src="assets/banner.png" alt="AllMaster.uz Banner"  />
 
 <br/>
 <br/>
